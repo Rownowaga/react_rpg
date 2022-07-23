@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/theladder_v2/static/css/main.fb35d48d.css",
-    "main.js": "/theladder_v2/static/js/main.e8e7a879.js",
-    "static/js/787.87f88792.chunk.js": "/theladder_v2/static/js/787.87f88792.chunk.js",
-    "index.html": "/theladder_v2/index.html",
-    "main.fb35d48d.css.map": "/theladder_v2/static/css/main.fb35d48d.css.map",
-    "main.e8e7a879.js.map": "/theladder_v2/static/js/main.e8e7a879.js.map",
-    "787.87f88792.chunk.js.map": "/theladder_v2/static/js/787.87f88792.chunk.js.map"
+    "main.css": "/react_rpg/static/css/main.fb35d48d.css",
+    "main.js": "/react_rpg/static/js/main.532760de.js",
+    "static/js/787.87f88792.chunk.js": "/react_rpg/static/js/787.87f88792.chunk.js",
+    "index.html": "/react_rpg/index.html",
+    "main.fb35d48d.css.map": "/react_rpg/static/css/main.fb35d48d.css.map",
+    "main.532760de.js.map": "/react_rpg/static/js/main.532760de.js.map",
+    "787.87f88792.chunk.js.map": "/react_rpg/static/js/787.87f88792.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb35d48d.css",
-    "static/js/main.e8e7a879.js"
+    "static/js/main.532760de.js"
   ]
 }
