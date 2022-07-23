@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/theladder_v2/static/css/main.fb35d48d.css",
+    "main.js": "/theladder_v2/static/js/main.e8e7a879.js",
+    "static/js/787.87f88792.chunk.js": "/theladder_v2/static/js/787.87f88792.chunk.js",
+    "index.html": "/theladder_v2/index.html",
+    "main.fb35d48d.css.map": "/theladder_v2/static/css/main.fb35d48d.css.map",
+    "main.e8e7a879.js.map": "/theladder_v2/static/js/main.e8e7a879.js.map",
+    "787.87f88792.chunk.js.map": "/theladder_v2/static/js/787.87f88792.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb35d48d.css",
+    "static/js/main.e8e7a879.js"
+  ]
+}
