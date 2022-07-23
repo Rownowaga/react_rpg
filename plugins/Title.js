@@ -59,9 +59,9 @@
 
 
     //Login Handler
-    Scene_Title.prototype.commandNewGame = function () {
+    /*Scene_Title.prototype.commandNewGame = function () {
 
         this._commandWindow.close();
-    };
+    };*/
 
 })();
